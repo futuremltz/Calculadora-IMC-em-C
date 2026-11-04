@@ -15,6 +15,14 @@ O foco principal deste projeto é fixar conceitos fundamentais de C:
 **Tempo estimado:** 2 a 3 horas
 **Esforço:** Rápido
 
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/imc-c-demo.gif" alt="Entrada inválida tratada, diagnóstico do IMC e histórico salvo em arquivo" />
+</p>
+
+<p align="center"><i>Entrada inválida tratada, diagnóstico do IMC e histórico salvo em arquivo.</i></p>
+
 ## 🚀 Funcionalidades
 
 - **Cálculo do IMC** a partir de peso (kg) e altura (m), usando a fórmula padrão `IMC = peso / (altura²)`.

@@ -89,4 +89,4 @@ feat: add BMI calculator with classification logic
 
 ---
 
-*Projeto #01 de uma série de exercícios de programação em C, com foco em fixar fundamentos da linguagem através de projetos práticos e aplicáveis ao mundo real.*
+*Projeto #01 de uma [série de exercícios de programação em C](https://github.com/futuremltz/Projetos-em-C), com foco em fixar fundamentos da linguagem através de projetos práticos e aplicáveis ao mundo real.*
